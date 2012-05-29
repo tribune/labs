@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Tribune Labs
+subtitle: subtitle
+author: Tribune Technology
 simple_search: http://google.com/search
 description:
 
